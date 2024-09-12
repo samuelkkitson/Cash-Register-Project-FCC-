@@ -1,4 +1,4 @@
-# Cash Register Project ([freeCodeCamp](https://www.freecodecamp.org/)
+# Cash Register Project ([freeCodeCamp](https://www.freecodecamp.org/))
 
 ### JavaScript Algorithms and Data Structures curriculum: Project 4
 The task is to build a function that simulates a cash register, which calculates the change due for a transaction based on the total price and the amount paid. It also needs to determine if the register has enough cash to provide the correct change. 
